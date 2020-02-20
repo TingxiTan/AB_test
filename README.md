@@ -6,5 +6,5 @@ This is a draft of my submission for Udacity Data Analyst Nanodegree program. In
 
 
 ## Dataset  
-ab_data.csv: the table of users' information and their hopping situation
+ab_data.csv: the table of users' information and their hopping situation  
 countries.csv: the table of users' id and their country
